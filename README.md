@@ -1,4 +1,4 @@
-# High-AQI-Index-Detecting-and-Forecasting-using-Ensemble-Learning
+# High-AQI-Index-Detecting-and-Forecasting-using-Ensemble-Learning in R
 
 **Project Title: Detection and Forecasting of High Air Quality Index (AQI) in Indian Cities**
 
