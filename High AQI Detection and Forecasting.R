@@ -18,7 +18,7 @@ library(forecast)
 
 
 library(readr)
-station_day <- read_csv("Desktop/Projects/G1. 20MIA1119 EDA /Dataset/station_day.csv")
+station_day <- read_csv("path_of_df")
 View(station_day)
 data<-(station_day)
 data
